@@ -27,7 +27,10 @@ We encourage [Learning in Public](learning-in-public.md)
 
 Implement a search engine: [Video](https://www.youtube.com/watch?v=nMrGK5QgPVE), [code](https://github.com/alexeygrigorev/build-your-own-search-engine)
 
-### 1. [Introduction to LLMs and RAG](1.%20course-prework/)
+### 1. [Course Prework](1.%20course-prework/)
+*
+*
+### 2. [Introduction to LLMs and RAG](2.%20intro/)
 
 * LLMs and RAG
 * Preparing the environment 
@@ -36,14 +39,14 @@ Implement a search engine: [Video](https://www.youtube.com/watch?v=nMrGK5QgPVE),
 * Simple RAG with Open AI
 * Text search with Elasticsearch
 
-### 2. [Open-source LLMs](2.%20intro/)
+### 3. [Open-source LLMs](3.%20open-source/)
 
 * Getting an environment with a GPU
 * Open-source models from HuggingFace Hub
 * Running LLMs on a CPU with Ollama
 * Creating a simple UI with Streamlit 
 
-### 3. [Vector databases](3.%20open-source/)
+### 4. [Vector databases](3.%20open-source/)
 
 * Vector search
 * Creating and indexing embeddings
